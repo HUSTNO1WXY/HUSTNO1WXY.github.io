@@ -1,5 +1,3 @@
-Here are some of the selections from my [Google Scholar](https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN)
-
 <u>Dongyue Li</u>, Songlin Du, [ContextMatcher: Detector-Free Feature Matching With Cross-Modality Context](https://ieeexplore.ieee.org/document/10485434), **IEEE Transactions on Circuits and Systems for Video Technology** 
 
 <u>Dongyue Li</u>, Songlin Du, [Beyond Global Cues: Unveiling the Power of Fine Details in Image Matching](https://ieeexplore.ieee.org/document/10687772), **ICME 2024** 
