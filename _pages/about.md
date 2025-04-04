@@ -26,7 +26,3 @@ Lately, I’ve been focusing on efficient and effective feature matching algorit
 🎓 Education
 ======
   {% include_relative education.md %}
-
-🏅 Awards
-======
-  {% include_relative award.md %}
