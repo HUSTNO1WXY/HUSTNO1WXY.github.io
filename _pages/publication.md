@@ -1,9 +1,7 @@
 Here are some of the selections from my [Google Scholar](https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN)
 
-<u>Jialei Chen</u>, Chong Fu, Haoyu Xie, Xu Zheng, Chiu-Wing Sham, [Uncertainty teacher with dense focal loss for semi-supervised medical image segmentation.](https://www.sciencedirect.com/science/article/pii/S001048252200751X), **Computers in Biology and Medicine** 
+<u>Dongyue Li</u>, Songlin Du, [ContextMatcher: Detector-Free Feature Matching With Cross-Modality Context](https://ieeexplore.ieee.org/document/10485434), **IEEE Transactions on Circuits and Systems for Video Technology** 
 
-<u>Jialei Chen</u>, Daisuke Deguchi, Chenkai Zhang, Xu Zheng, Hiroshi Murase, [Frozen is Better than Learning: A New Design of Prototype-based Classifier for Semantic Segmentation.](https://doi.org/10.1016/j.patcog.2024.110431), **Pattern Recognition** 
+<u>Dongyue Li</u>, Songlin Du, [Beyond Global Cues: Unveiling the Power of Fine Details in Image Matching](https://ieeexplore.ieee.org/document/10687772), **ICME 2024** 
 
-Chenkai Zhang, Daisuke Deguchi, <u>Jialei Chen</u>, Hiroshi Murase, [Towards Explainable End-to-End Driving Models via Simplified Objectification Constraints](https://ieeexplore.ieee.org/document/10505932) is accepted by **IEEE Transactions on Intelligent Transportation Systems**
-
-Zhenzhen Quan <u>Jialei Chen</u>, Daisuke Deguchi, Jie Sun, Chenkai Zhang, Yujun Li, Hiroshi Murase, [Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234), **Pattern Recognition** 
+<u>Dongyue Li</u>, Yaping Yan, Dong Liang, Songlin Du [MSFORMER: Multi-Scale Transformer with Neighborhood Consensus for Feature Matching](https://ieeexplore.ieee.org/document/10095240) is accepted by **ICASSP 2023**
