@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first-year Ph.D. student supervised by [Daisuke Deguchi](https://scholar.google.com.hk/citations?hl=zh-CN&user=OO215U0AAAAJ) and [Hiroshi Murase](https://scholar.google.com.hk/citations?hl=zh-CN&user=T2O1-JgAAAAJ) at [VisLab](https://www.vislab.is.i.nagoya-u.ac.jp), Nagoya University, interested in high-level CV topics from detection to segmentation.
+I’m a first-year Ph.D. student supervised by [Daisuke Deguchi](https://scholar.google.com.hk/citations?hl=zh-CN&user=OO215U0AAAAJ) and [Hiroshi Murase](https://scholar.google.com.hk/citations?hl=zh-CN&user=T2O1-JgAAAAJ) at [VisLab](https://www.vislab.is.i.nagoya-u.ac.jp), Nagoya University, interested in CV topics from local feature matching to visual place recognition.
 
-Prior to Nagoya University, I obtained my B.ENG and M.ENG in Information and Communication Engineering from Northeastern University (NEU), where I focused on medical image analysis.
+Prior to Nagoya University, I obtained my B.ENG in Nanjing University of Posts and Telecommunications (NJUPT) and M.ENG in Southeast University (SEU), where I focused on local feature matching.
 
-Lately, I’ve been focusing on Zero-shot and Open-Vocabulary Vision tasks based on Vision-Language models.
+Lately, I’ve been focusing on efficient and effective feature matching algorithms and its application, such as visual place recognition.
 
 
 📰 News
