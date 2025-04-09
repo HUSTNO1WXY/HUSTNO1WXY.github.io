@@ -12,7 +12,7 @@ I’m a first-year Ph.D. student supervised by [Daisuke Deguchi](https://scholar
 
 Prior to Nagoya University, I obtained my B.ENG in Nanjing University of Posts and Telecommunications (NJUPT) and M.ENG in Southeast University (SEU), where I focused on local feature matching.
 
-Lately, I’ve been focusing on efficient and effective feature matching algorithms and its application, such as visual place recognition.
+Lately, I’ve been focusing on efficient and effective feature matching algorithms and its application, such as visual place recognition. My CV can be downloaded here.
 
 
 📰 News
